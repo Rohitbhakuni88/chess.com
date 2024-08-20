@@ -1,5 +1,16 @@
 body{
+    background-color: black;
     align-items: center;
+}
+.play{
+    float: right;
+}
+.bg{
+    width: 50%; 
+    margin: 0 auto;
+    background-color: lightblue;
+    padding: 20px;
+    
 }
 .board {
     height: 400px;
@@ -30,6 +41,6 @@ body{
     justify-content: center;
     align-items: center;
     float: left;
-    background: rgb(12, 12, 12);
+    background: rgb(0, 0, 0);
   }
   
